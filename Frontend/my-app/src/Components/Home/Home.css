@@ -1,0 +1,46 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap') */
+
+button {
+    background-color: #161616;
+    color: #ffff;
+    border-radius: 25px;
+    height: 35px;
+    width: 120px;
+    text-transform: uppercase;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    padding: 6px;
+    margin-top: 20px;
+    margin-left: 160px;
+}
+
+/* body {
+    background-color:  	#FFFFF0;
+}   */
+
+.form-sms input {
+    align-items: center;
+    border-radius: 12px;
+    height: 34px;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 55px;
+
+}
+
+.form-sms .test-area {
+    align-items: center;
+    border-radius: 12px;
+    height: 80px;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 55px;
+
+}
+
+.form-sms {
+    border: solid 1px #161616;
+    height: 430px;
+    border-radius: 8px;
+}
+

@@ -1,0 +1,7 @@
+.contact-sec{
+    border: solid 1px #040404 !important;
+    border-radius: 8px;
+}
+.contact-sec ul li{
+    list-style: none;
+}
